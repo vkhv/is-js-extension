@@ -1,0 +1,24 @@
+{
+  "name": "is-js-extension",
+  "version": "0.1.0",
+  "description": "Checks is file has js extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkhv/is-js-extension.git"
+  },
+  "keywords": [
+    "check",
+    "js",
+    "extension"
+  ],
+  "author": "Vladislav Khvostov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkhv/is-js-extension.git"
+  },
+  "homepage": "https://github.com/vkhv/is-js-extension.git"
+}
