@@ -1,3 +1,3 @@
 module.exports = function(fileName) {
-    return /\.js/.test(fileName);
+    return /\.js$/.test(fileName);
 }
