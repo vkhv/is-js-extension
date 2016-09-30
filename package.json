@@ -1,6 +1,6 @@
 {
   "name": "is-js-extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks is file has js extension.",
   "main": "index.js",
   "scripts": {
