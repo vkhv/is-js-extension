@@ -1,2 +1,2 @@
-### is-js-exstension
+### is-js-extension
 Checks is file has js extension.
